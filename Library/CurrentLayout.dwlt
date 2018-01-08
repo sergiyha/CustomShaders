@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 163
-    y: 51
+    x: -199
+    y: 729
     width: 1739
     height: 981
   m_ShowMode: 4
@@ -407,8 +407,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1228
-    y: 100
+    x: 2
+    y: 19
     width: 231
     height: 612
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -423,19 +423,18 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders:
-    - Assets/Shaders/DefaultPBRmodels
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Projects\Unity\Shader_Learning
+  m_LastProjectPath: D:\Projects\Unity\Custom_Shader
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 1a260000
     m_LastClickedID: 9754
-    m_ExpandedIDs: 000000009027000096270000b8270000d427000018280000262800005a280000
+    m_ExpandedIDs: 0000000092270000aa270000ee270000c4280000c6280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -463,21 +462,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000090270000a8270000dc270000e2270000f0270000
+    m_ExpandedIDs: 0000000092270000aa270000ee270000c4280000c6280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: TransparentShader
-      m_OriginalName: TransparentShader
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 362
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 3}
     m_SearchString: 
@@ -540,8 +539,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1463
-    y: 100
+    x: 1300
+    y: 19
     width: 439
     height: 910
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -574,16 +573,16 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1228
-    y: 733
+    x: 2
+    y: 652
     width: 231
     height: 277
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 64010000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: de58ffffcad2ffff34d4ffff9efbffff000000006a290000
+    m_ExpandedIDs: 62fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -628,8 +627,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 163
-    y: 100
+    x: -199
+    y: 778
     width: 1061
     height: 696
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -667,7 +666,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.0040097013, y: -0.98288625, z: -0.041045737, w: -0.18078174}
     speed: 2
-    m_Value: {x: 0.004008803, y: -0.982666, z: -0.04103654, w: -0.18074124}
+    m_Value: {x: -0.0040097013, y: 0.98288625, z: 0.041045737, w: 0.18078174}
   m_Size:
     m_Target: 3.1987388
     speed: 2
@@ -782,8 +781,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 163
-    y: 817
+    x: 0
+    y: 736
     width: 1061
     height: 193
   m_PersistentViewDataDictionary: {fileID: 0}
