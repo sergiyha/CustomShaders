@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sergey\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Shader_Learning.-1009899995.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Unity\Shader_Learning" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="7_normalMap.shader" t="Include" />
+        <e p="8b_emitMap.shader" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Editor" t="Include">
+            <e p="MonoEditor" t="Include">
+              <e p="PlanetMasterEditor" t="Include">
+                <e p="PlanetMasterEditor.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="EnableDepthTexture.cs" t="Include" />
+          <e p="PlanetMaster.cs" t="Include" />
+          <e p="PostEffectScript.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="1_flat_shader.shader" t="Include" />
+          <e p="2_lambert +ambient.shader" t="Include" />
+          <e p="2_lambert.shader" t="Include" />
+          <e p="3_specular.shader" t="Include" />
+          <e p="3b_specular.shader" t="Include" />
+          <e p="4_PointLight.shader" t="Include" />
+          <e p="5_rim_shader.shader" t="Include" />
+          <e p="6_NOrmal_map.shader" t="Include" />
+          <e p="6_Texture_shader.shader" t="Include" />
+          <e p="DepthShader 1.shader" t="Include" />
+          <e p="DepthShader.shader" t="Include" />
+          <e p="TransparentCutout.shader" t="Include" />
+          <e p="TransparentShader.shader" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Shader_Learning.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
